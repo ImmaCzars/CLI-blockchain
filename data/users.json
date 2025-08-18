@@ -1,0 +1,28 @@
+[
+    {
+        "username": "nanda6",
+        "password": "nanda123",
+        "confirmPass": "nanda123",
+        "address": "1333c0b92d",
+        "balance": {
+            "BTC": 0,
+            "ETH": 0,
+            "SOL": 0,
+            "USDT": 0,
+            "TRX": 0
+        }
+    },
+    {
+        "username": "yayan22",
+        "password": "yayan22",
+        "confirmPass": "yayan22",
+        "address": "8ff1aff287",
+        "balance": {
+            "BTC": null,
+            "ETH": 0.012160594760097003,
+            "SOL": 0,
+            "USDT": 0,
+            "TRX": 0
+        }
+    }
+]
